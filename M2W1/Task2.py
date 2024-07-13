@@ -1,7 +1,6 @@
 import matplotlib.pyplot as plt
 import numpy as np
 
-
 image_path = './M2W1/dog.jpeg'
 image = plt.imread(image_path)
 
